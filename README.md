@@ -1,6 +1,6 @@
 # Hi, I'm Karan 
 
- Final-Year Undergraduate at IIT Kanpur (Statistics & Data Science) <br> Aspiring Data Scientist | ML & Generative AI Enthusiast <br> 🔍 Interested in Machine Learning, Computer Vision, and RAG Systems<br> India
+ Final-Year Undergraduate at IIT Kanpur (Statistics & Data Science) <br> Aspiring Data Scientist | ML & Generative AI Enthusiast <br>  Interested in Machine Learning, Computer Vision, and RAG Systems<br> India
 
 
 
